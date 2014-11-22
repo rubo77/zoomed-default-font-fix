@@ -1,0 +1,10 @@
+{
+  "name": "zoomed-default-font-fix",
+  "title": "Fix for zoomed default-font",
+  "fullName": "Fix for zoomed default-font",
+  "id": "zoomed-default-font-fix",
+  "description": "This Add-On sets all form elements to 100% so elements where the font-size is not defined are not scaled by the text-scale-factor twice",
+  "author": "Ruben Barkow",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
